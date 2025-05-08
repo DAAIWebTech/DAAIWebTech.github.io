@@ -1,0 +1,136 @@
+.carousel {
+    position: center;
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    background-color: #fffbe6; /* Fondo beige claro */
+    border-radius: 20px; /* Hace los bordes redondeados */
+    }
+   
+    /* Contenedor de las imágenes del carrusel */
+    .carousel-images {
+    display: flex;
+    transition: transform 0.5s ease;
+    height: 100%;
+    width: 150%; /* Tres imágenes en total, cada una ocupa 100% del contenedor */
+    }
+   
+    /* Estilos de las imágenes del carrusel */
+    .carousel-images img {
+    width: 100%; /* Cada imagen ocupa el 33.33% del ancho total */
+    height: 100%;
+    object-fit: cover; /* Ajusta la imagen sin deformarla */
+    }
+   
+    /* Botones de navegación */
+    .carousel-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 70%;/*boton redondeado */
+
+
+    .info-producto{
+        margin: 20px auto;
+        padding: 20px;
+        width: 80%;
+        background-color: #fffbe6; /* Beige claro */
+        border-radius: 10px;
+        text-align: center;
+        display: none; /* Inicialmente no se muestra */
+        }
+       
+        .info-producto h3 {
+        font-size: 24px;
+        color: #4CAF50;
+        }
+       
+        .info-producto p {
+        font-size: 18px;
+        color: #0e0d0d;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+   
+    /* Botón izquierdo */
+    .carousel-button.prev {
+    left: 10px;
+    }
+   
+    /* Botón derecho */
+    .carousel-button.next {
+    right: 10px;
+    }
+      /* Globales */
+*::after,
+*::before,
+
+
+
+
+.icon-cart {
+    width: 40px;
+    height: 40px;
+    stroke: #ffffff;
+    cursor: pointer;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+
+
+.container-icon {
+    position: relative;
+}
+
+.count-products {
+    position: absolute;
+    top: 55%;
+    right: 0;
+    background-color: #000;
+    color: #fff;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 12px;
+}
+
+.container-cart-products {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    background-color: #fff;
+    width: 400px;
+    z-index: 1;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.20);
+    border-radius: 10px;
+    padding: 20px;
+}
