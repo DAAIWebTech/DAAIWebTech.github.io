@@ -85,7 +85,7 @@ const compañeros = [
     {
       nombre: "Arianny Guzman",
       avatar: "491218726_1615246732510893_4235222128787347076_n.jpg",
-      enlace: "https://portal21.com"
+      enlace: "https://ariianny34212.github.io/ariianny34212/index.html"
     },
 
     {
