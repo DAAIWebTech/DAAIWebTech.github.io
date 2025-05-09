@@ -79,7 +79,7 @@ const compañeros = [
     {
       nombre: "Juana Nuñez",
       avatar: "494356166_9970819182961405_2383728034728912103_n.jpg",
-      enlace: "https://portal19.com"
+      enlace: "http://juana987.github.io/"
     },
 
     {
