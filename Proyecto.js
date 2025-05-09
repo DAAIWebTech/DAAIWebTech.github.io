@@ -43,7 +43,7 @@ const compañeros = [
     },
     {
       nombre: "Chinaide Pierre",
-      avatar: "https://i.pravatar.cc/150?img=10",
+      avatar: "494324928_4007592849454750_8879424441610721653_n.jpg",
       enlace: "https://portal10.com"
     },
     {
