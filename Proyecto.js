@@ -64,7 +64,7 @@ const compañeros = [
     {
       nombre: "Raynielis Arias",
       avatar: "490988613_951039557107989_5915441109842676956_n.jpg",
-      enlace: "https://alejandra-2025.github.io/ranielis/"
+      enlace: "https://alejandra-2025.github.io/rainielis2/"
     },
     {
       nombre: "Jefferson Guzman",
