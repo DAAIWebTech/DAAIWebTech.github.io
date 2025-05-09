@@ -91,7 +91,7 @@ const compañeros = [
     {
       nombre: "Randy Ureña",
       avatar: "491010228_514218694956276_2052881541829273179_n.jpg",
-      enlace: "https://ariianny34212.github.io/ariianny34212/index.html"
+      enlace: ""
     },
   ];
   
