@@ -27,11 +27,6 @@ const compañeros = [
     
 
     {
-      nombre: "Mirely Paulino",
-      avatar: "491119171_898784915657465_5002530983762899935_n.jpg",
-      enlace: "https://portal7.com"
-    },
-    {
       nombre: "Yosaidy Miranda",
       avatar: "491024146_1494434201529936_8327082105455822895_n.jpg",
       enlace: "http://alliajewerly.github.io/"
@@ -41,11 +36,7 @@ const compañeros = [
       avatar: "491023222_1214727426832343_5868812091235576272_n.jpg",
       enlace: "http://loranny87.github.io/"
     },
-    {
-      nombre: "Chinaide Pierre",
-      avatar: "494324928_4007592849454750_8879424441610721653_n.jpg",
-      enlace: "https://portal10.com"
-    },
+    
     {
       nombre: "Rafael Rodriguez y Gilberto Cabrera",
       avatar: "491026066_1179252420348218_7351783543363991174_n.jpg",
@@ -56,11 +47,7 @@ const compañeros = [
       avatar: "https://scontent.fsti6-1.fna.fbcdn.net/v/t1.15752-9/487957070_1368833981092363_255387928926278189_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xIMcH6k-GgMQ7kNvwEriYDr&_nc_oc=Adn2Ppb8ShSUdmcD4PAc83feiWzj8NvkHXflmHegM1RzEuT7u7pCQJneQsz6MhAmFLI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fsti6-1.fna&oh=03_Q7cD2AEKvOwJUv8iEHL1Q2Eua0pc3cuWJYihBjef7wpY6htJNQ&oe=6827D461",
       enlace: "https://rafelina323.github.io/Rafelina03.github.io/"
     },
-    {
-      nombre: "Crismeiry Nuñez",
-      avatar: "491010836_691650536600046_2345052672502706227_n.jpg",
-      enlace: "https://portal14.com"
-    },
+
     {
       nombre: "Raynielis Arias",
       avatar: "490988613_951039557107989_5915441109842676956_n.jpg",
@@ -88,11 +75,6 @@ const compañeros = [
       enlace: "https://ariianny34212.github.io/ariianny34212/index.html"
     },
 
-    {
-      nombre: "Randy Ureña",
-      avatar: "491010228_514218694956276_2052881541829273179_n.jpg",
-      enlace: ""
-    },
   ];
   
 
