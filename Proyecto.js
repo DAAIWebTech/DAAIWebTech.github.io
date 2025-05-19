@@ -44,7 +44,7 @@ const compañeros = [
     },
     {
       nombre: "Rafelina Matos",
-      avatar: "https://scontent.fsti6-1.fna.fbcdn.net/v/t1.15752-9/487957070_1368833981092363_255387928926278189_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=xIMcH6k-GgMQ7kNvwEriYDr&_nc_oc=Adn2Ppb8ShSUdmcD4PAc83feiWzj8NvkHXflmHegM1RzEuT7u7pCQJneQsz6MhAmFLI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fsti6-1.fna&oh=03_Q7cD2AEKvOwJUv8iEHL1Q2Eua0pc3cuWJYihBjef7wpY6htJNQ&oe=6827D461",
+      avatar: "https://scontent.fsti6-1.fna.fbcdn.net/v/t1.15752-9/487957070_1368833981092363_255387928926278189_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=RKUTqdY74FEQ7kNvwG5Z3Qx&_nc_oc=AdnVSrfZ-ZC771bNPF1aVtw6pes7Vq_0ohsQNRgbWIvi4Tp5VSXQk5J8sE7tFTeh6l8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fsti6-1.fna&oh=03_Q7cD2QF1H8yB2zIjBWdrYf_ScZUVkTcpy2YJ6KxhkWDcCMIZAA&oe=68520461",
       enlace: "https://rafelina323.github.io/Rafelina03.github.io/"
     },
 
