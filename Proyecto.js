@@ -51,7 +51,7 @@ const compañeros = [
     {
       nombre: "Raynielis Arias",
       avatar: "490988613_951039557107989_5915441109842676956_n.jpg",
-      enlace: "https://alejandra-2025.github.io/rainielis2/"
+      enlace: "https://esmerlyn2024.github.io/ray-2023/"
     },
     {
       nombre: "Jefferson Guzman",
@@ -61,7 +61,7 @@ const compañeros = [
     {
       nombre: "Yoxander Sanchez",
       avatar: "490993899_1395756538245507_1538972696088705499_n.jpg",
-      enlace: "https://yoxandersanchez.github.io/"
+      enlace: " https://yoxandersanchez.github.io/yoxander-sanchez/"
     },
     {
       nombre: "Juana Nuñez",
@@ -75,11 +75,44 @@ const compañeros = [
       enlace: "https://ariianny34212.github.io/ariianny34212/index.html"
     },
 
+ {
+      nombre: "Esmerlin Reyes",
+      avatar: "491003823_621808574147106_3621028246786167611_n.jpg",
+      enlace: "https://esmerlyn2024.github.io/esmerlygithub.io/"
+    },
+
+
+ {
+      nombre: "Jose Eduardo Estevez",
+      avatar: "491025503_694233539742949_3471647697219926798_n.jpg",
+      enlace: "http://NotasyCuerdas1.github.io/"
+    },
+
+{
+      nombre: "Ismania Ciceron",
+      avatar: "https://scontent.fsti6-1.fna.fbcdn.net/v/t1.15752-9/487432384_1156078652921599_6413712273541857404_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=0jixRylw6ZAQ7kNvwFXD3Ek&_nc_oc=AdkHDQNYD0Wu3UaUcBG8-dEAlAys3-yQPgTT6sbQrYG1K2pVjtu09mtlp9-VlhKrYbQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fsti6-1.fna&oh=03_Q7cD2QFuGzOuCmPlsrZ_DPAoHvOfug_cOHgB7m4arG7IXfMMLg&oe=68542D98",
+      enlace: "https://maniaciceron.github.io/maniaciceron.gihub.io/"
+    },
+
+{
+      nombre: "Chinadine Pierre",
+      avatar: "494324928_4007592849454750_8879424441610721653_n.jpg",
+      enlace: ""
+    },
+
+{
+      nombre: "Randy Ureña",
+      avatar: "494324928_4007592849454750_8879424441610721653_n.jpg",
+      enlace: "https://randyprendas.github.io/"
+    },
+
+  
+
   ];
   
 
 
-  
+ 
 
 
   const grid = document.getElementById("grid-container");
