@@ -75,12 +75,6 @@ const compañeros = [
       enlace: "https://ariianny34212.github.io/ariianny34212/index.html"
     },
 
- {
-      nombre: "Esmerlin Reyes",
-      avatar: "491003823_621808574147106_3621028246786167611_n.jpg",
-      enlace: "https://esmerlyn2024.github.io/esmerlygithub.io/"
-    },
-
 
  {
       nombre: "Jose Eduardo Estevez",
@@ -97,12 +91,12 @@ const compañeros = [
 {
       nombre: "Chinadine Pierre",
       avatar: "494324928_4007592849454750_8879424441610721653_n.jpg",
-      enlace: ""
+      enlace: "https://chinaa07.github.io/china.github.io/"
     },
 
 {
       nombre: "Randy Ureña",
-      avatar: "494324928_4007592849454750_8879424441610721653_n.jpg",
+      avatar: "491010228_514218694956276_2052881541829273179_n.jpg",
       enlace: "https://randyprendas.github.io/"
     },
 
@@ -128,4 +122,5 @@ const compañeros = [
     `;
     grid.appendChild(card);
   });
+  
   
